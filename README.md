@@ -5,7 +5,7 @@ Hi, Humans!
 
 ShinTesh here, I like C++, C# and Unity.
 
-안녕하세요 대한민국에 사는 ShinTesh|shintom1222 입니당.
+안녕하세요 대한민국에 사는 ShinTesh | shintom1222 입니당.
 
 게임과 관련된 프로그래밍을 배우고 있구용.
 
